@@ -71,7 +71,9 @@ $$
 
 ## 3.实验结果
 
-见`lab.ipynb`
+见`main.ipynb`
+
+见`Derivation.ipynb`
 
 ## 4.实验总结
 
